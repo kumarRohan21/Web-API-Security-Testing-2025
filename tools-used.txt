@@ -1,5 +1,26 @@
-Burp Suite
-Postman
-SQLmap
-Nmap
-Kali Linux
+# Web & API Penetration Testing – OWASP Top 10 (2025)
+
+## Project Overview
+This project demonstrates Web and API Vulnerability Assessment & Penetration Testing based on OWASP Top 10.
+
+## Objectives
+- Identify SQL Injection, XSS, IDOR
+- Perform API Security Testing
+- Validate vulnerabilities with PoC
+- Provide secure remediation
+
+## Tools Used
+- Burp Suite
+- Postman
+- SQLmap
+- Nmap
+
+## Key Vulnerabilities Found
+- SQL Injection (Critical)
+- Stored & Reflected XSS
+- IDOR
+- Broken Authentication
+- Security Misconfiguration
+
+## Legal Disclaimer
+All testing was performed only on legal vulnerable platforms like OWASP Juice Shop and DVWA.
